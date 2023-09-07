@@ -40,6 +40,7 @@ different values between adjacent pixels.
 
 ## Hough Transform 
 - Function: A line in image space can be represented as a single point in parameter space, or Hough Space then the detected lines are highlighted on the image.
+  
 ![Figure_5](https://github.com/dinaashraf20003/Lane_Detection/assets/73821958/80e4c132-ada0-4a75-93a6-1b8595486898)
 
 
